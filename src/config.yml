@@ -1,0 +1,11 @@
+max: 32
+effect-limit: 5
+elixir-name: '&bElixir'
+
+message:
+  no-permission: '&cNo permission!'
+  toggle-potion-stack: '&7PotionStack {{state}}!'
+  potions-stacked: '&7Potions stacked!'
+  usage: '&cIncorrect usage; do /pot help for help!'
+  potions-combined: '&7Potions combined!'
+  effect-limit-reached: '&cEffect limit reached!'
